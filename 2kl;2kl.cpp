@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("toi la viet");
+	printf("toi la duc viet");
 	printf("toi la manh");
 	int n,x,y; 
 	printf("Nhap gia tri n :") ;
