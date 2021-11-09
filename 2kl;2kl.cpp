@@ -3,6 +3,7 @@
 
 int main()
 {
+	printf("toi la manh");
 	int n,x,y; 
 	printf("Nhap gia tri n :") ;
 	scanf("%d",&n);
@@ -15,5 +16,5 @@ int main()
 
 		y=0; 
 	 
-	printf("Gia tri cua x y la: %d và %d",x,y);
+	printf("Gia tri cua x y la: %d vï¿½ %d",x,y);
 }
